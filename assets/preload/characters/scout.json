@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SONICFUNIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				460,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SONICFUNLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SONICFUNUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SONICFUNDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SONICFUNRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ScoutBonkless",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "scout",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		14,
+		129
+	],
+	"camera_position": [
+		-70,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

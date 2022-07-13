@@ -1,0 +1,30 @@
+{
+	"songs": [
+		["Cycles", "Lord", [120, 119, 179]],
+		["Execution", "Lord", [120, 119, 179]],
+		["Endless", "sonicfun", [0, 0, 215]],
+		["Endless Old", "sonicfun", [0, 0, 215]],
+		["Bonkless", "Scout", [36, 132, 235]],
+		["Sunshine", "TDoll", [251, 134, 0]],
+		["Chaos", "FleetwaySuperSonic", [251, 181, 1]],
+		["Faker", "faker", [42, 5, 118]],
+		["Black Sun", "exe", [42, 5, 118]],
+		["Milk", "Sunky", [11, 37, 186]],
+		["Too Fest", "Sanic", [42, 5, 118]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Town",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

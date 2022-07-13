@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Too Slow", "sonic", [12, 37, 190]],
+		["You Cant Run", "sonic-exe", [1, 0, 101]],
+		["Triple Trouble", "tails", [50, 50, 50]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Sanic",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

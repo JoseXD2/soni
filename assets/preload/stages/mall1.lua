@@ -1,0 +1,23 @@
+function onCreate()
+  --background
+  makeLuaSprite('sky','newyears/sky',-1000,-500)
+  makeLuaSprite('floor','newyears/mainstage',-900,-400)
+  scaleObject('floor',1.3,1)
+  makeLuaSprite('buildings','newyears/buildings',-1300,-500)
+  makeAnimatedLuaSprite('crowd1','newyears/CrowdRight',300,150)
+  addAnimationByPrefix('crowd1','idle','CROWD RIGHT',24,true)
+  objectPlayAnimation('crowd1','idle',true)
+  makeAnimatedLuaSprite('crowd2','newyears/CrowdLeft',-800,100)
+  addAnimationByPrefix('crowd2','idle','CROWD LEFT',24,true)
+  objectPlayAnimation('crowd2','idle',true)
+  makeAnimatedLuaSprite('firework','newyears/FireworkNeo',-100,100)
+  addAnimationByPrefix('firework','idle','Week 5 Firework',6,true)
+  objectPlayAnimation('firework','idle',true)
+  addLuaSprite('sky',false)
+  addLuaSprite('buildings',false)
+  addLuaSprite('firework',false)
+  addLuaSprite('floor',false)
+  addLuaSprite('crowd1',false)
+  addLuaSprite('crowd2',true)
+  close(true);
+  end

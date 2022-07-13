@@ -1,0 +1,26 @@
+function onCreate()
+  --background
+  makeLuaSprite('bg','spookystuff/buildings',-450,0)
+  makeLuaSprite('floor','spookystuff/neonsigns',-475,50)
+  scaleObject('floor',1.05,1)
+  makeAnimatedLuaSprite('fg','spookystuff/stuff_3',-300,700)
+  scaleObject('fg',1.5,1.5)
+  addAnimationByPrefix('fg','idle','Crowd 2',24,true)
+  objectPlayAnimation('fg','idle',true)
+  makeLuaSprite('top','spookystuff/scaffolding',-500,0)
+  scaleObject('top',1.1,1)
+  makeAnimatedLuaSprite('speaker1','spookystuff/SpookySpeakersB',-700,0)
+  addAnimationByPrefix('speaker1','idle','BG SPEAKERS',24,true)
+  objectPlayAnimation('speaker1','idle',true)
+  makeAnimatedLuaSprite('speaker2','spookystuff/SpookySpeakersP',1200,0)
+  addAnimationByPrefix('speaker2','idle','BG SPEAKERS PINK',24,true)
+  objectPlayAnimation('speaker2','idle',true)
+  addLuaSprite('bg',false)
+  addLuaSprite('top',false)
+  addLuaSprite('floor',false)
+  addLuaSprite('speaker1',false)
+  addLuaSprite('speaker2',false)
+  addLuaSprite('fg',true)
+  close(true);
+  end
+  

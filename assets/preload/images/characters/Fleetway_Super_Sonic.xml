@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fleetway Super Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fleetway Down0000" x="0" y="0" width="563" height="714" frameX="-60" frameY="-27" frameWidth="653" frameHeight="745"/>
+	<SubTexture name="Fleetway Down0001" x="0" y="0" width="563" height="714" frameX="-60" frameY="-27" frameWidth="653" frameHeight="745"/>
+	<SubTexture name="Fleetway Down0002" x="563" y="0" width="628" height="736" frameX="-25" frameY="0" frameWidth="653" frameHeight="745"/>
+	<SubTexture name="Fleetway Down0003" x="563" y="0" width="628" height="736" frameX="-25" frameY="0" frameWidth="653" frameHeight="745"/>
+	<SubTexture name="Fleetway HowFast0000" x="1222" y="0" width="601" height="845" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
+	<SubTexture name="Fleetway Idle0000" x="1222" y="0" width="601" height="845" frameX="-31" frameY="0" frameWidth="662" frameHeight="841"/>
+	<SubTexture name="Fleetway Idle0001" x="1823" y="4" width="607" height="721" frameX="-53" frameY="-70" frameWidth="662" frameHeight="841"/>
+	<SubTexture name="Fleetway Idle0002" x="0" y="846" width="664" height="800" frameX="0" frameY="-32" frameWidth="662" frameHeight="841"/>
+	<SubTexture name="Fleetway Idle0003" x="664" y="843" width="603" height="841" frameX="-29" frameY="0" frameWidth="662" frameHeight="841"/>
+	<SubTexture name="Fleetway Left0000" x="1283" y="951" width="746" height="691" frameX="0" frameY="-13" frameWidth="798" frameHeight="704"/>
+	<SubTexture name="Fleetway Left0001" x="1283" y="951" width="746" height="691" frameX="0" frameY="-13" frameWidth="798" frameHeight="704"/>
+	<SubTexture name="Fleetway Right0000" x="47" y="1750" width="714" height="662" frameX="0" frameY="-14" frameWidth="765" frameHeight="736"/>
+	<SubTexture name="Fleetway Right0001" x="47" y="1750" width="714" height="662" frameX="0" frameY="-14" frameWidth="765" frameHeight="736"/>
+	<SubTexture name="Fleetway Right0002" x="762" y="1750" width="678" height="637" frameX="-30" frameY="-16" frameWidth="765" frameHeight="736"/>
+	<SubTexture name="Fleetway Right0003" x="762" y="1750" width="678" height="637" frameX="-30" frameY="-16" frameWidth="765" frameHeight="736"/>
+	<SubTexture name="Fleetway Up0000" x="1455" y="1641" width="550" height="799" frameX="0" frameY="-7" frameWidth="590" frameHeight="825"/>
+	<SubTexture name="Fleetway Up0001" x="1455" y="1641" width="550" height="799" frameX="0" frameY="-7" frameWidth="590" frameHeight="825"/>
+	<SubTexture name="Fleetway Up0002" x="2004" y="1641" width="513" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
+	<SubTexture name="Fleetway Up0003" x="2004" y="1641" width="513" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
+</TextureAtlas>
